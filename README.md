@@ -1,0 +1,2 @@
+# Tikus
+Script Gak jelas
